@@ -66,7 +66,7 @@ class BypassRules:
             headers = {
                 "accept-encoding": "gzip, deflate, br",
                 "accept-language": "en-US",
-                #"authorization": token,
+                "authorization": token,
                 "sec-fetch-dest": "empty",
                 "sec-fetch-mode": "cors",
                 "sec-fetch-site": "same-origin",

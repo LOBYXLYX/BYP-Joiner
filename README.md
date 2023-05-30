@@ -1,7 +1,7 @@
 # Installation
 Python version 3.7+
 
-put your inq tokens in tokens.txt
+Put your tokens in tokens.txt
 
 # Run
 python main.py
